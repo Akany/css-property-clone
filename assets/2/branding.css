@@ -1,0 +1,41 @@
+/* Branding file, contains all application brand files */
+
+/* VERY IMPORTANT TO KNOW! */
+
+/* This file ordered by the same order that the css file loaded in index.html*/
+
+/**TODO: MAKE SURE YOU KEEP THE SAME ORDER WHEN YOU ADD/CHANGE RULES*/
+
+/*************** app.css ************************/
+
+.mwc body,
+html.mwc {
+  background-color: #edeced;
+  /*b2*/
+}
+
+/********************
+    Colors
+*********************/
+
+/* text colors */
+
+.mwc .mwc-t1 {
+  color: #117bcf;
+}
+
+.mwc .mwc-t2 {
+  color: #FFFFFF;
+}
+
+.mwc .mwc-t3 {
+  color: #646464;
+}
+
+.mwc .mwc-t4 {
+  color: #222;
+}
+
+.mwc .mwc-account-bonus-balance-value {
+  color: #117bcf;
+}
